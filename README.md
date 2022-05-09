@@ -1,1 +1,1 @@
-cronometro feito com javascript
+cronometro feito com HTML, CSS e JS
